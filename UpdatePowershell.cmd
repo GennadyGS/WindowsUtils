@@ -1,0 +1,1 @@
+winget update Microsoft.PowerShell
